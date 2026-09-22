@@ -1,4 +1,4 @@
-# Politique de Confidentialité — WadaFit
+# Politique de Confidentialité — Nedos
 
 **Version 1.0 — En vigueur à compter du 9 juin 2026**  
 **Dernière mise à jour : 9 juin 2026**
@@ -35,10 +35,11 @@ Contact délégué : [EMAIL_CONTACT]
 |---|---|---|
 | Photos de vêtements | Affichage, analyse IA des couleurs, génération de tenues | Exécution du contrat |
 | Descriptions (catégorie, type, marque, matière, motif) | Suggestions de tenues et analyses | Exécution du contrat |
-| Couleurs analysées (nom, valeur hex, référence Pantone) | Moteur de colorimétrie Wada | Exécution du contrat |
-| Saison Wada (déclarée manuellement par l'utilisateur) | Personnalisation des analyses et suggestions | Exécution du contrat |
+| Couleurs analysées (nom, valeur hex, référence Pantone) | Moteur de colorimétrie Nedos | Exécution du contrat |
+| Saison Nedos
+(déclarée manuellement par l'utilisateur) | Personnalisation des analyses et suggestions | Exécution du contrat |
 
-**Important** : la saison Wada est une préférence stylistique **déclarée librement** par l'utilisateur dans une liste (Printemps, Été, Automne, Hiver). WadaFit n'effectue aucune analyse biométrique automatisée de photos du visage ou du corps. Cette donnée ne constitue pas une donnée sensible au sens de l'article 9 du RGPD.
+**Important** : la saison Nedos est une préférence stylistique **déclarée librement** par l'utilisateur dans une liste (Printemps, Été, Automne, Hiver). Nedos n'effectue aucune analyse biométrique automatisée de photos du visage ou du corps. Cette donnée ne constitue pas une donnée sensible au sens de l'article 9 du RGPD.
 
 ### 2.3 Données d'usage
 
@@ -62,7 +63,7 @@ Contact délégué : [EMAIL_CONTACT]
 
 ### 3.1 Hébergement en Europe — engagement ferme
 
-**L'intégralité des données personnelles des utilisateurs de WadaFit est hébergée en République d'Irlande (Union Européenne)**, sur l'infrastructure cloud d'Amazon Web Services (région AWS eu-west-1, Dublin, Irlande), via notre sous-traitant Supabase Inc.
+**L'intégralité des données personnelles des utilisateurs de Nedos est hébergée en République d'Irlande (Union Européenne)**, sur l'infrastructure cloud d'Amazon Web Services (région AWS eu-west-1, Dublin, Irlande), via notre sous-traitant Supabase Inc.
 
 L'Irlande est un État membre de l'Union Européenne. Ce choix d'hébergement garantit que vos données bénéficient de la protection intégrale du RGPD.
 
@@ -70,7 +71,7 @@ L'Irlande est un État membre de l'Union Européenne. Ce choix d'hébergement ga
 
 ### 3.2 Transferts vers des services d'intelligence artificielle
 
-WadaFit utilise des services d'intelligence artificielle tiers dont les serveurs sont situés aux États-Unis. Ces transferts sont strictement encadrés :
+Nedos utilise des services d'intelligence artificielle tiers dont les serveurs sont situés aux États-Unis. Ces transferts sont strictement encadrés :
 
 **Ce qui est transféré :**
 - Les photos de vêtements (jamais de photos de personnes identifiables)
@@ -181,13 +182,13 @@ Conformément aux articles 15 à 22 du RGPD et à la loi Informatique et Libert�
 
 ## Article 9 — Cookies et technologies de suivi
 
-L'application mobile WadaFit n'utilise **aucun cookie publicitaire, aucun traceur de comportement, aucun SDK analytique tiers**. Des tokens de session techniques (JWT) sont utilisés exclusivement pour maintenir votre authentification. Ces tokens sont nécessaires au fonctionnement du service et ne peuvent pas être désactivés.
+L'application mobile Nedos n'utilise **aucun cookie publicitaire, aucun traceur de comportement, aucun SDK analytique tiers**. Des tokens de session techniques (JWT) sont utilisés exclusivement pour maintenir votre authentification. Ces tokens sont nécessaires au fonctionnement du service et ne peuvent pas être désactivés.
 
 ---
 
 ## Article 10 — Mineurs
 
-WadaFit est destinée aux personnes âgées de 16 ans ou plus conformément à l'article 8 du RGPD et à la loi française. [SOCIÉTÉ] ne collecte pas sciemment de données personnelles de personnes de moins de 16 ans. Si un parent ou tuteur légal constate qu'un mineur de moins de 16 ans a créé un compte, il peut en demander la suppression immédiate à [EMAIL_CONTACT]. [SOCIÉTÉ] procédera à la suppression dans les meilleurs délais.
+Nedos est destinée aux personnes âgées de 16 ans ou plus conformément à l'article 8 du RGPD et à la loi française. [SOCIÉTÉ] ne collecte pas sciemment de données personnelles de personnes de moins de 16 ans. Si un parent ou tuteur légal constate qu'un mineur de moins de 16 ans a créé un compte, il peut en demander la suppression immédiate à [EMAIL_CONTACT]. [SOCIÉTÉ] procédera à la suppression dans les meilleurs délais.
 
 ---
 
