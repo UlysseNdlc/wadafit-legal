@@ -1,15 +1,15 @@
-# Conditions Générales d'Utilisation — WadaFit
+# Conditions Générales d'Utilisation — Nedos
 
 **Version 1.0 — En vigueur à compter du 9 juin 2026**  
 **Dernière mise à jour : 9 juin 2026**
 
-> Ces Conditions Générales d'Utilisation constituent un contrat juridiquement contraignant entre vous et ODY SERVICES. En créant un compte ou en utilisant WadaFit, vous reconnaissez les avoir lues, comprises et acceptées dans leur intégralité. Si vous n'acceptez pas ces conditions, vous devez cesser immédiatement toute utilisation de l'application.
+> Ces Conditions Générales d'Utilisation constituent un contrat juridiquement contraignant entre vous et ODY SERVICES. En créant un compte ou en utilisant Nedos, vous reconnaissez les avoir lues, comprises et acceptées dans leur intégralité. Si vous n'acceptez pas ces conditions, vous devez cesser immédiatement toute utilisation de l'application.
 
 ---
 
 ## Article 1 — Éditeur et exploitant
 
-WadaFit est éditée et exploitée exclusivement par :
+Nedos est éditée et exploitée exclusivement par :
 
 **XXX SERVICES**  
 Société par Actions Simplifiée Unipersonnelle (SASU)  
@@ -24,7 +24,7 @@ ODY SERVICES est le responsable de traitement au sens du Règlement Général su
 
 ## Article 2 — Objet et champ d'application
 
-WadaFit est une application mobile de gestion de garde-robe intelligente. Elle offre notamment les fonctionnalités suivantes : catalogage de vêtements, analyse colorimétrique par intelligence artificielle, génération de suggestions de tenues harmonieuses, et création d'images de tenues.
+Nedos est une application mobile de gestion de garde-robe intelligente. Elle offre notamment les fonctionnalités suivantes : catalogage de vêtements, analyse colorimétrique par intelligence artificielle, génération de suggestions de tenues harmonieuses, et création d'images de tenues.
 
 Les présentes CGU régissent l'intégralité de la relation contractuelle entre ODY SERVICES et tout utilisateur de l'application WadaFit, quelle que soit la version utilisée (gratuite ou Premium) et quel que soit le territoire d'utilisation.
 
@@ -36,7 +36,7 @@ Toute utilisation de l'application, y compris à titre d'essai, emporte acceptat
 
 ### 3.1 Conditions d'accès
 
-L'accès à WadaFit est réservé aux personnes physiques âgées d'au moins 16 ans disposant de la pleine capacité juridique. En créant un compte, l'utilisateur déclare et garantit remplir ces conditions.
+L'accès à Nedos est réservé aux personnes physiques âgées d'au moins 16 ans disposant de la pleine capacité juridique. En créant un compte, l'utilisateur déclare et garantit remplir ces conditions.
 
 ### 3.2 Création du compte
 
@@ -56,11 +56,11 @@ La création de comptes multiples par un même utilisateur est interdite. ODY SE
 
 ### 4.1 Offre gratuite
 
-L'offre gratuite donne accès aux fonctionnalités de base de WadaFit dans les limites de quotas d'utilisation hebdomadaires et mensuels définis par XXX. Ces quotas sont susceptibles d'être modifiés à tout moment, XXX s'engageant à en informer les utilisateurs avec un préavis raisonnable.
+L'offre gratuite donne accès aux fonctionnalités de base de Nedos dans les limites de quotas d'utilisation hebdomadaires et mensuels définis par XXX. Ces quotas sont susceptibles d'être modifiés à tout moment, XXX s'engageant à en informer les utilisateurs avec un préavis raisonnable.
 
 ### 4.2 Offre Premium
 
-L'offre WadaFit Premium est un abonnement payant à renouvellement automatique mensuel, souscrit exclusivement via le système d'achat intégré de l'App Store d'Apple. Elle offre des quotas d'utilisation élargis. Le prix de l'abonnement est celui affiché dans l'application au moment de la souscription, en euros toutes taxes comprises.
+L'offre Nedos Premium est un abonnement payant à renouvellement automatique mensuel, souscrit exclusivement via le système d'achat intégré de l'App Store d'Apple. Elle offre des quotas d'utilisation élargis. Le prix de l'abonnement est celui affiché dans l'application au moment de la souscription, en euros toutes taxes comprises.
 
 ### 4.3 Renouvellement et résiliation de l'abonnement Premium
 
@@ -76,7 +76,7 @@ L'abonnement se renouvelle automatiquement à l'expiration de chaque période me
 
 ### 5.1 Utilisation conforme
 
-L'utilisateur s'engage à utiliser WadaFit exclusivement à des fins personnelles, licites et conformes à sa destination. Toute utilisation commerciale, professionnelle ou à des fins de revente est expressément interdite sans autorisation écrite préalable d'ODY SERVICES.
+L'utilisateur s'engage à utiliser Nedos exclusivement à des fins personnelles, licites et conformes à sa destination. Toute utilisation commerciale, professionnelle ou à des fins de revente est expressément interdite sans autorisation écrite préalable d'ODY SERVICES.
 
 ### 5.2 Comportements interdits
 
@@ -104,11 +104,11 @@ L'utilisateur conserve l'entière propriété des contenus (photos, textes, donn
 
 ### 6.2 Licence d'utilisation
 
-En téléchargeant des contenus dans WadaFit, l'utilisateur concède à ODY SERVICES une licence non exclusive, mondiale, gratuite et pour la durée du contrat, aux fins exclusives de stocker, traiter, afficher et analyser ces contenus dans le cadre strict du fonctionnement de l'application et de la fourniture des services souscrits. Cette licence prend fin à la suppression du compte.
+En téléchargeant des contenus dans Nedos, l'utilisateur concède à ODY SERVICES une licence non exclusive, mondiale, gratuite et pour la durée du contrat, aux fins exclusives de stocker, traiter, afficher et analyser ces contenus dans le cadre strict du fonctionnement de l'application et de la fourniture des services souscrits. Cette licence prend fin à la suppression du compte.
 
 ### 6.2 Licence d'utilisation technique
 
-En téléchargeant des contenus dans WadaFit, l'utilisateur concède à ODY SERVICES une licence non exclusive, mondiale, gratuite et pour la durée du contrat, aux fins 
+En téléchargeant des contenus dans Nedos, l'utilisateur concède à ODY SERVICES une licence non exclusive, mondiale, gratuite et pour la durée du contrat, aux fins 
 strictement nécessaires au fonctionnement de l'application : stockage, traitement,affichage, transmission aux services d'intelligence artificielle tiers.
 
 ### 6.3 Traitement par intelligence artificielle
@@ -136,13 +136,13 @@ l'utilisation qu'il en fait.
 
 ### 7.1 Propriété d'XXX
 
-WadaFit, son nom, sa marque, son interface graphique, son architecture technique, ses algorithmes, ses bases de données, ses prompts d'intelligence artificielle, et
+Nedos, son nom, sa marque, son interface graphique, son architecture technique, ses algorithmes, ses bases de données, ses prompts d'intelligence artificielle, et
 l'ensemble de ses contenus éditoriaux sont la propriété exclusive d'ODY SERVICES et sont protégés par le Code de la propriété intellectuelle français et les conventions
 internationales applicables.
 
 ### 7.2 Absence de cession
 
-L'utilisation de WadaFit ne confère à l'utilisateur aucun droit de propriété intellectuelle sur l'application ou l'un quelconque de ses éléments. Toute reproduction,
+L'utilisation de Nedos ne confère à l'utilisateur aucun droit de propriété intellectuelle sur l'application ou l'un quelconque de ses éléments. Toute reproduction,
 représentation, modification, adaptation, traduction ou exploitation, partielle ou totale, par quelque procédé que ce soit, sans autorisation écrite préalable d'XXX,
 est strictement interdite et constituerait une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la propriété intellectuelle.
 
@@ -152,7 +152,7 @@ est strictement interdite et constituerait une contrefaçon sanctionnée par les
 
 ### 8.1 Disponibilité
 
-XXX s'efforce d'assurer la disponibilité de WadaFit 24h/24 et 7j/7, mais ne saurait garantir une disponibilité ininterrompue. Des interruptions peuvent survenir pour
+XXX s'efforce d'assurer la disponibilité de Nedos 24h/24 et 7j/7, mais ne saurait garantir une disponibilité ininterrompue. Des interruptions peuvent survenir pour
 maintenance, mise à jour, incidents techniques ou tout autre motif légitime. XXX ne saurait être tenu responsable des conséquences d'une indisponibilité temporaire.
 
 ### 8.2 Évolution du service
