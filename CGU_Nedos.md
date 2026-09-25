@@ -26,7 +26,7 @@ ODY SERVICES est le responsable de traitement au sens du Règlement Général su
 
 Nedos est une application mobile de gestion de garde-robe intelligente. Elle offre notamment les fonctionnalités suivantes : catalogage de vêtements, analyse colorimétrique par intelligence artificielle, génération de suggestions de tenues harmonieuses, et création d'images de tenues.
 
-Les présentes CGU régissent l'intégralité de la relation contractuelle entre ODY SERVICES et tout utilisateur de l'application WadaFit, quelle que soit la version utilisée (gratuite ou Premium) et quel que soit le territoire d'utilisation.
+Les présentes CGU régissent l'intégralité de la relation contractuelle entre ODY SERVICES et tout utilisateur de l'application Nedos, quelle que soit la version utilisée (gratuite ou Premium) et quel que soit le territoire d'utilisation.
 
 Toute utilisation de l'application, y compris à titre d'essai, emporte acceptation sans réserve des présentes CGU ainsi que de la Politique de Confidentialité annexée.
 
@@ -100,7 +100,7 @@ Tout manquement aux obligations du présent article pourra entraîner, sans mise
 
 ### 6.1 Propriété et responsabilité
 
-L'utilisateur conserve l'entière propriété des contenus (photos, textes, données) qu'il télécharge dans WadaFit. Il déclare et garantit disposer de tous les droits nécessaires sur ces contenus et que ceux-ci ne violent aucun droit de tiers ni aucune disposition légale ou réglementaire.
+L'utilisateur conserve l'entière propriété des contenus (photos, textes, données) qu'il télécharge dans Nedos. Il déclare et garantit disposer de tous les droits nécessaires sur ces contenus et que ceux-ci ne violent aucun droit de tiers ni aucune disposition légale ou réglementaire.
 
 ### 6.2 Licence d'utilisation
 
@@ -157,7 +157,7 @@ maintenance, mise à jour, incidents techniques ou tout autre motif légitime. X
 
 ### 8.2 Évolution du service
 
-ODY SERVICES se réserve le droit de modifier, enrichir, restreindre ou interrompre tout ou partie des fonctionnalités de WadaFit à tout moment, y compris les quotas
+ODY SERVICES se réserve le droit de modifier, enrichir, restreindre ou interrompre tout ou partie des fonctionnalités de Nedos à tout moment, y compris les quotas
 d'utilisation. Les modifications substantielles seront notifiées aux utilisateurs avec un préavis raisonnable. La poursuite de l'utilisation après notification vaut
 acceptation des modifications.
 
